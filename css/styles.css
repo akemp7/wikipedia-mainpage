@@ -46,6 +46,26 @@
   background-color: #CEDFF2;
 }
 
-.nav {
-  z-index:9;
+
+.panel-heading3{
+  background-color: #ddcef2;
+}
+
+.panel-body3{
+  background-color: #faf5ff;
+  /* background-color: #CEF2E0; */
+}
+
+.bird {
+  float:left;
+  width: 350px;
+  height:350px;
+  padding-right: 40px;
+
+}
+
+.panel-body3 p{
+  justify-content: center;
+  margin: 7px;
+  font-size: 14px;
 }
