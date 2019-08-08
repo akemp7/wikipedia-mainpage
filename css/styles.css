@@ -69,3 +69,25 @@
   margin: 7px;
   font-size: 14px;
 }
+
+.jumbotron h1{
+  font-size: 162%;
+}
+
+.pretty{
+  color:blue;
+}
+
+.jumbotron p{
+  font-size: 12px;
+}
+
+.cute{
+  font-size: 14px
+}
+
+.jumbotron ul{
+  float:right;
+  color: blue;
+  font-size:12px;
+}
