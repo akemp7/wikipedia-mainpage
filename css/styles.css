@@ -4,3 +4,48 @@
   height:120px;
   margin: 5px;
 }
+
+.building {
+  width: 133px;
+  height:134px;
+  float: right;
+
+}
+
+.Toni{
+  height:160px;
+  width:120px;
+  float:right;
+  border:1px;
+}
+
+.road{
+  width:180px;
+  height:120px;
+  float:right;
+
+
+}
+
+
+.panel-heading1{
+  background-color: #CEF2E0;
+}
+
+
+.panel-body1{
+  background-color: #f5fffa;
+  /* background-color: #CEF2E0; */
+}
+
+.panel-body2{
+  background-color: #f5faff;
+}
+
+.panel-heading2{
+  background-color: #CEDFF2;
+}
+
+.nav {
+  z-index:9;
+}
